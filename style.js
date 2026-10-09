@@ -9,10 +9,6 @@
             const paisesAmerica = ["Argentina", "Brazil", "Canada", "Chile", "Colombia", "Mexico", "United States"];
             const paisesEuropa = ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Ireland", "Italy", "Netherlands", "Sweden", "Switzerland", "United Kingdom"];
 
-            let htmlAmerica = "";
-            let htmlEuropa = "";
-            let htmlOtros = "";
-
             var cuenta_america = 0;
             var cuenta_europa = 0;
             var cuenta_otros = 0;
